@@ -1,0 +1,6 @@
+.help-text {
+    font-size: .85rem;
+    line-height: 1.5;
+    color: var(--80);
+    font-style: italic;
+}
